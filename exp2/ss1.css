@@ -1,0 +1,19 @@
+table {
+
+	border-style: solid;
+	margin: 10px
+	
+
+}
+img{
+	border-style: solid;
+
+}
+*{
+	font-size: 20px; 
+}
+
+#size{
+	font-size: 20px;
+	font-style: bold;
+}
